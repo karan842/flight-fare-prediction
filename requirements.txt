@@ -24,3 +24,4 @@ threadpoolctl==3.0.0
 Werkzeug==2.0.2
 gunicorn
 flask_cors>1.5.0
+xgboost==1.4.2
