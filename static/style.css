@@ -1,0 +1,26 @@
+body {
+    background-color: #000000;
+    text-align: center;
+}
+
+.navbar{
+    background-color: rgba(238, 234, 234, 0.83);
+}
+a {
+    color: #849191;
+}
+
+a:hover{
+    color: #3b3737;
+}
+
+#op{
+    color: white;
+}
+
+.navbar-brand{
+    color: #000;
+}
+#brand{
+    color: white;
+}
