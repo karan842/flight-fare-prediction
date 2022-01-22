@@ -1,8 +1,8 @@
 from flask import Flask, request, url_for, render_template
 from flask_cors import cross_origin
 import pickle
-import sklearn
-import xgboost
+# import sklearn
+# import xgboost
 import numpy as np
 import pandas as pd
 
